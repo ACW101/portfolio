@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A Simple Portfolio Website using GithubPage",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACW101/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACW101/portfolio/issues"
+  },
+  "homepage": "https://github.com/ACW101/portfolio#readme",
+  "dependencies": {
+    "semantic-ui": "^2.2.13"
+  }
+}
